@@ -4,7 +4,7 @@ The income/expenses management application which developed with Java and MySQL.
 # Functions
   * Add income/expenses record.
   * Drop and create table.
-  * Export all records to .csv .xlsx file.
+  * Export all records to `.csv` `.xlsx` file.
   * Change table theme color.
 
 # Preview
